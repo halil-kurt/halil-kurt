@@ -25,10 +25,11 @@
 <a href="https://code.visualstudio.com/"><img src="icons/visual-studio-code.png" style="width: 32px;" alt="icons/visual-studio-code-icon"></a>
 <a href="https://git-scm.com/"><img src="icons/git.png" style="width: 32px;" alt="git-icon"></a>
 <br>
-<br>
 
 <h3>Web Page</h3>
-[Here I published some projects](https://halil-kurt.github.io/ "link title")
+[Here I published some projects](https://halil-kurt.github.io/)
+<br>
+<br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=halil-kurt&show_icons=true&theme=tokyonight)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=halil-kurt&show_icons=true&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
