@@ -27,7 +27,7 @@
 <br>
 
 <h3>Web Page</h3>
-[Here I published some projects](https://halil-kurt.github.io/)
+Here I published some projects: https://halil-kurt.github.io/
 <br>
 <br>
 
